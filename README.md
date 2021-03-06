@@ -26,11 +26,13 @@ I am a recent graduate and software engineer from Salem, Oregon. My passion is w
 
 ### RateMyLandlord Web Application [Link][3]
 JavaScript | Sep. 2020 - Ongoing
-- Full-stack application allowing users to sign in, search, and rate landlords.
-- Front-end developed with HTML/CSS/Javascript and backend with Node.js, Express, and MongoDB.
-- Deployed application with Heroku and tested through Postman.
-- Ongoing project with plans to add additional features to practice professional
-development.
+- Spearheaded a full-stack web application allowing users to sign in, search, and
+rate landlords.
+- Wrote integration and unit tests for application routes using Mocha and Chai.
+- Integrated RESTful API services to retrieve data from MongoDB database using
+Node.js backend and render on an EJS templated front end.
+- Followed Agile methodologies, Test (TDD), and Behavior-driven Development
+(BDD) to continuously implement features as continue to learn.
 
 ### Tarpaulin RESTful HTTP API [Link][5]
 JavaScript | Apr. 2020 - Jun. 2020

@@ -15,12 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a recent graduate and software engineer from Salem, Oregon. My passion is working on web applications and...
+I am a recent graduate (Go Beavs) and software engineer from Salem, Oregon. My passion is working on web applications and...
 
 - 🔭 I’m currently working on a full-stack application [RateMyLandlord][3].
 - 🌱 I’m currently learning the React library.
 - 🤔 I’m looking for help with starting my software career at a great company.
-- ⚡ Fun fact: I am a huge Foodie!
+- 📚 Resources and guides I have found helpful:
+  -  [Harvards CS50][10] 
+  -  [clean-code-javascript][4]
+  -  [30-seconds-of-code][8]
+  -  [JavaScript Style Guide][9]
+- ⚡ Fun fact: I am a huge Foodie and Reddit user!
 
 ## :zap: Recent Projects
 
@@ -65,7 +70,10 @@ storage (SQLite), interface design principles, and content sharing.
 [1]: http://web.engr.oregonstate.edu/~lopezmoc/
 [2]: https://www.linkedin.com/in/carlos-lopez-molina/
 [3]: https://github.com/Carlos231/rate-my-landlord-web-app
-
+[4]: https://github.com/ryanmcdermott/clean-code-javascript
 [5]: https://github.com/Carlos231/CS493-Final-Project
 [6]: https://github.com/Carlos231/Airbnb-Voice-Driven-Amazon-Alexa-Application
 [7]: https://github.com/Carlos231/CS-492-final-project-youtubesearchclient
+[8]: https://github.com/30-seconds/30-seconds-of-code
+[9]: https://github.com/airbnb/javascript
+[10]: https://cs50.harvard.edu/x/2021/

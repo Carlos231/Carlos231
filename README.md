@@ -22,6 +22,7 @@ I am a recent graduate (Go Beavs) and software engineer from Salem, Oregon. My p
 - 🤔 I’m looking for help with starting my software career at a great company.
 - 📚 Resources and guides I have found helpful:
   -  [Harvards CS50][10] 
+  -  [MDN Web Docs][11]
   -  [clean-code-javascript][4]
   -  [30-seconds-of-code][8]
   -  [JavaScript Style Guide][9]
@@ -77,3 +78,4 @@ storage (SQLite), interface design principles, and content sharing.
 [8]: https://github.com/30-seconds/30-seconds-of-code
 [9]: https://github.com/airbnb/javascript
 [10]: https://cs50.harvard.edu/x/2021/
+[11]: https://developer.mozilla.org/en-US/

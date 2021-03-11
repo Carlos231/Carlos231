@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am a recent graduate (Go Beavs) and software engineer from Salem, Oregon. My passion is working on web applications and...
 
 - 🔭 I’m currently working on a full-stack application [RateMyLandlord][3].
-- 🌱 I’m currently learning the React library.
+- 🌱 I’m currently working on a personal project and exploring App Academys bootcamp.
 - 🤔 I’m looking for help with starting my software career at a great company.
 - 📚 Resources and guides I have found helpful:
   -  [Harvards CS50][10] 

@@ -15,18 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a recent graduate (Go Beavs) and software engineer from Salem, Oregon. My passion is working on web applications and...
+I am a Computer Scientist based out of Utah, USA. My passion is learning, working with the latest technologies and...
 
-- 🔭 I’m currently working on a full-stack application [RateMyLandlord][3].
-- 🌱 I’m currently working on a personal project and exploring App Academys bootcamp.
-- 🤔 I’m looking for help with starting my software career at a great company.
+- 🤔 I’m expanding my knowledge in Python and exploring new projects to work on.
+- 🔭 My latest project is a full-stack application [RateMyLandlord][3].
 - 📚 Resources and guides I have found helpful:
   -  [Harvards CS50][10] 
   -  [MDN Web Docs][11]
   -  [clean-code-javascript][4]
   -  [30-seconds-of-code][8]
   -  [JavaScript Style Guide][9]
-- ⚡ Fun fact: I am a huge Foodie and Reddit user!
+- ⚡ Fun fact: I am a huge Foodie, Traveler, and Reddit user!
 
 ## :zap: Recent Projects
 
@@ -65,10 +64,8 @@ storage (SQLite), interface design principles, and content sharing.
 
 ## 📬 Get in touch
 
-- Web: [http://web.engr.oregonstate.edu/~lopezmoc/][1]
 - LinkedIn: [https://www.linkedin.com/in/carlos-lopez-molina/][2]
 
-[1]: http://web.engr.oregonstate.edu/~lopezmoc/
 [2]: https://www.linkedin.com/in/carlos-lopez-molina/
 [3]: https://github.com/Carlos231/rate-my-landlord-web-app
 [4]: https://github.com/ryanmcdermott/clean-code-javascript

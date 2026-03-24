@@ -62,11 +62,6 @@ Android Studio.
 - Developed app to include persistent on-device data storage, file-based
 storage (SQLite), interface design principles, and content sharing.
 
-## 📬 Get in touch
-
-- LinkedIn: [https://www.linkedin.com/in/carlos-lopez-molina/][2]
-
-[2]: https://www.linkedin.com/in/carlos-lopez-molina/
 [3]: https://github.com/Carlos231/rate-my-landlord-web-app
 [4]: https://github.com/ryanmcdermott/clean-code-javascript
 [5]: https://github.com/Carlos231/CS493-Final-Project
